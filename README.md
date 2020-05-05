@@ -2,6 +2,8 @@
 Advices to Docker security.
 
 
+Youtube https://www.youtube.com/watch?v=rqsrmeLn65w 
+
 ## Security recommendations for Docker on Linux servers, in order of priority.
 
 ### First, research and learn
